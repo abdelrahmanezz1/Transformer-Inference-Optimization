@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers
+onnx
+onnxruntime-gpu
+onnxconverter_common
+pandas
+numpy<2.0.0
+matplotlib
+seaborn
